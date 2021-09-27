@@ -12,4 +12,3 @@ This repository holds files that KARTAL Strategy &amp; Consulting wants to share
 https://cdn.kartalsc.com/uploads/filename
 ```
 
-made with <3 by elliot.
