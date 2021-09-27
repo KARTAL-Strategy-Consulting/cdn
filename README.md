@@ -4,7 +4,7 @@
 
 ## How to use?
 
-- Upload the file you want to share on the "uploads" folder.
+- Click on the "upload files" up here, and upload your file.
 
 - Copy this link and replace "filename" with the name of the file you want to share
 
