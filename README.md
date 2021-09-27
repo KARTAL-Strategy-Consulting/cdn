@@ -1,7 +1,5 @@
 # Kartal S&C
 
-This repository holds files that KARTAL Strategy &amp; Consulting wants to share online.
-
 ## How to use?
 
 - Upload the file you want to share on the "uploads" folder.
